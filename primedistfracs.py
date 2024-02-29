@@ -33,7 +33,6 @@ def prime_dists_as_fractions(n):
 
 if __name__ == "__main__":
     dfsum, logs, diff = prime_dists_as_fractions(num_limit)
-    #print([diffs[i] for i in range(0, len(diffs), max(1, int(len(diffs)/100)))])
     print(diff)
     plt.xlabel("Nth prime number")
     plt.ylabel("Sum of fractions")

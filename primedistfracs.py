@@ -1,6 +1,5 @@
 import sys
 import math
-import numpy as np
 import matplotlib.pyplot as plt
 
 num_limit = int(sys.argv[1])

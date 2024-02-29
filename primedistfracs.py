@@ -18,7 +18,6 @@ def prime_dists_as_fractions(n):
     dist_frac_sum = 0
     dfsumc = []
     logs = []
-    diff = 0
     last_prime = 2
     for i in range(3, n, 2):
         if is_prime(i):

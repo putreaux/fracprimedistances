@@ -10,7 +10,7 @@ where N is the number of primes in the range defined by the command line argumen
 
 Thus, the first terms of the sum are
 
-$\frac{3 - 2}{2} + \frac{5 - 3}{3} + \frac{7 - 5}{5} + \frac{11 - 7}{7}$
+$\frac{3 - 2}{2} + \frac{5 - 3}{3} + \frac{7 - 5}{5} + \frac{11 - 7}{7} + ...$
 
 and so on.
 

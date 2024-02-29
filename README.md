@@ -22,9 +22,9 @@ To run the program type
 
 for example,
 
-`python primedistfracs.py 1000`
+`python primedistfracs.py 1000000`
 
-which calculates and plots the fractional prime sums for all primes between 1 and 1000. 
+which calculates and plots the fractional prime sums for all primes between 1 and 1000000. 
 
 The resulting plots look like this: 
 
